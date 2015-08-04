@@ -13,3 +13,6 @@
 [submodule "ghasr266_bootcamp_code"]
 	path = ghasr266_bootcamp_code
 	url = https://github.com/rahamelody/ghasr266_bootcamp_code
+[submodule "sadjz202_bootcamp_code"]
+	path = sadjz202_bootcamp_code
+	url = https://github.com/sadj/sadjz202_bootcamp_code
