@@ -10,3 +10,6 @@
 [submodule "zhuy258_bootcamp_code"]
 	path = zhuy258_bootcamp_code
 	url = https://github.com/shiftkots/zhuy258_bootcamp_code
+[submodule "ghasr266_bootcamp_code"]
+	path = ghasr266_bootcamp_code
+	url = https://github.com/rahamelody/ghasr266_bootcamp_code
