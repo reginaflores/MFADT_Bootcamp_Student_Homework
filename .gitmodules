@@ -16,3 +16,6 @@
 [submodule "sadjz202_bootcamp_code"]
 	path = sadjz202_bootcamp_code
 	url = https://github.com/sadj/sadjz202_bootcamp_code
+[submodule "parka870_bootcamp_code"]
+	path = parka870_bootcamp_code
+	url = https://github.com/parka870/parka870_bootcamp_code
