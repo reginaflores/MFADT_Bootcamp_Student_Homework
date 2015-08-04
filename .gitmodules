@@ -4,3 +4,6 @@
 [submodule "casta828_bootcamp_code"]
 	path = casta828_bootcamp_code
 	url = https://github.com/casta828/casta828_bootcamp_code
+[submodule "tanq336_bootcamp_code"]
+	path = tanq336_bootcamp_code
+	url = https://github.com/nutosee/tanq336_bootcamp_code
