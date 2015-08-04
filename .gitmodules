@@ -1,3 +1,6 @@
 [submodule "huanm776_bootcamp_code"]
 	path = huanm776_bootcamp_code
 	url = https://github.com/mikeihuang/huanm776_bootcamp_code
+[submodule "casta828_bootcamp_code"]
+	path = casta828_bootcamp_code
+	url = https://github.com/casta828/casta828_bootcamp_code
