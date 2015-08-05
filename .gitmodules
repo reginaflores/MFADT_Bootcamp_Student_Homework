@@ -28,3 +28,6 @@
 [submodule "parka043_bootcamp_code"]
 	path = parka043_bootcamp_code
 	url = https://github.com/Rukuchigami/parka043_bootcamp_code
+[submodule "tanqz336_bootcamp_code"]
+	path = tanqz336_bootcamp_code
+	url = https://github.com/nutosee/tanqz336_bootcamp_code
