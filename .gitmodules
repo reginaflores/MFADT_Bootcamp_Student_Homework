@@ -22,3 +22,6 @@
 [submodule "sings257_bootcamp_code"]
 	path = sings257_bootcamp_code
 	url = https://github.com/sings257/sings257_bootcamp_code
+[submodule "parip422_bootcamp_code"]
+	path = parip422_bootcamp_code
+	url = https://github.com/parikhpriyal/parip422_bootcamp_code
