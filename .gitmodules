@@ -25,3 +25,6 @@
 [submodule "parip422_bootcamp_code"]
 	path = parip422_bootcamp_code
 	url = https://github.com/parikhpriyal/parip422_bootcamp_code
+[submodule "parka043_bootcamp_code"]
+	path = parka043_bootcamp_code
+	url = https://github.com/Rukuchigami/parka043_bootcamp_code
