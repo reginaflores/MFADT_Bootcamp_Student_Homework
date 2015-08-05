@@ -16,3 +16,6 @@
 [submodule "parka870_bootcamp_code"]
 	path = parka870_bootcamp_code
 	url = https://github.com/parka870/parka870_bootcamp_code
+[submodule "pettyl_bootcamp_code"]
+	path = pettyl_bootcamp_code
+	url = https://github.com/lucylittles/pettyl_bootcamp_code
