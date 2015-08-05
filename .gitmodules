@@ -19,3 +19,6 @@
 [submodule "pettyl_bootcamp_code"]
 	path = pettyl_bootcamp_code
 	url = https://github.com/lucylittles/pettyl_bootcamp_code
+[submodule "sings257_bootcamp_code"]
+	path = sings257_bootcamp_code
+	url = https://github.com/sings257/sings257_bootcamp_code
